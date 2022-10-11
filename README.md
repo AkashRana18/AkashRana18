@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 👯 I’m looking to collaborate on **Frontend and Backend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/akashrana03/](https://www.linkedin.com/in/akashrana03/)
 
