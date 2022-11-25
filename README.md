@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/akash08_18" target="blank"><img src="https://img.shields.io/twitter/follow/akash08_18?logo=twitter&style=for-the-badge" alt="akash08_18" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development Projects**
+- 🔭 I’m currently working on **Backend Development Projects**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/akashrana03/](https://www.linkedin.com/in/akashrana03/)
 
-- 💬 Ask me about **JavaScript , Cloud Computing , Linux**
+- 💬 Ask me about **Web Development, Cloud Computing , Linux**
 
 - 📫 How to reach me **akashmanu2003@gmail.com**
 
