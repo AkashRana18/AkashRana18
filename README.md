@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/akashrana03/" target="blank"><img src="https://img.shields.io/twitter/follow/akash08_18?logo=twitter&style=for-the-badge" alt="akash08_18" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development Projects**
+- 🔭 I’m currently working on **Frontend Development Projects**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Databases**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
