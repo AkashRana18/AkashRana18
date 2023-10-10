@@ -4,13 +4,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrana18&label=Profile%20views&color=0e75b6&style=flat" alt="akashrana18" /> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/akashrana03/" target="blank"><img src="https://img.shields.io/twitter/follow/akash08_18?logo=twitter&style=for-the-badge" alt="akash08_18" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/akashrana18//" target="blank"><img src="https://img.shields.io/twitter/follow/akash08_18?logo=twitter&style=for-the-badge" alt="akash08_18" /></a> </p>
 
 
 
 - 🔭 I’m currently working on **Frontend Development Projects**
 
-- 🌱 I’m currently learning **Databases**
+- 🌱 I’m currently learning **UI/UX Design**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
